@@ -1,6 +1,6 @@
 {
   "name": "@trust/http-service",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Modular HTTP Services for Express",
   "main": "src/index.js",
   "directories": {
