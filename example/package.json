@@ -1,0 +1,16 @@
+{
+  "name": "example-http-service",
+  "version": "0.0.0",
+  "description": "Example of HTTP Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Example Author",
+  "license": "MIT",
+  "sunstone": {
+    "dependencies": {
+      "server": ">=0.0.0"
+    }
+  }
+}
