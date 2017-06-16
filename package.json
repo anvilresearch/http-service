@@ -1,0 +1,25 @@
+{
+  "name": "@trust/http-service",
+  "version": "0.0.0",
+  "description": "Modular HTTP Services for Express",
+  "main": "src/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anvilresearch/http-service.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anvilresearch/http-service/issues"
+  },
+  "homepage": "https://github.com/anvilresearch/http-service#readme",
+  "dependencies": {
+    "callsite": "^1.0.0"
+  }
+}
